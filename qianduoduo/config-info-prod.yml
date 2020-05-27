@@ -1,5 +1,3 @@
 com:
   qianduoduo:
     notice: I am prod
-server:
-  port: 5551

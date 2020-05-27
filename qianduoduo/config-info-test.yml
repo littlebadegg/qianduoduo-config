@@ -1,5 +1,3 @@
 com:
   qianduoduo:
     notice: I am test
-server:
-  port: 5553
