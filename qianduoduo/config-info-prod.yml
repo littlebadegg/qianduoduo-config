@@ -1,3 +1,5 @@
 com:
   qianduoduo:
     notice: I am prod
+server:
+  port: 1235

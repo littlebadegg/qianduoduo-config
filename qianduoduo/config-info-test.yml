@@ -1,3 +1,5 @@
 com:
   qianduoduo:
     notice: I am test
+server:
+  port: 1236
