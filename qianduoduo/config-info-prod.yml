@@ -1,5 +1,5 @@
 com:
   qianduoduo:
-    notice: I am prod new
+    notice: I am prod new2
 server:
   port: 1235
